@@ -8,14 +8,14 @@ These could be in any of the SMB drivers and their supporting services.
 <table>
   <thead>
     <tr>
-      <th width="100">Bulletin</th>
+      <th width="110">Bulletin</th>
       <th>Type</th>
       <th width="150">CVE</th>
       <th>Description</th>
     </tr>
   </thead>
   <tbody>
-    <tr><th width="100">MS02-070</th><td>RCE</td><td width="150">CAN-2002-1256</td><td>Flaw in SMB Signing Could Enable Group Policy to be Modified</td></tr>
+    <tr><th width="110">MS02-070</th><td>RCE</td><td width="150">CAN-2002-1256</td><td>Flaw in SMB Signing Could Enable Group Policy to be Modified</td></tr>
     <tr><th>MS03-024</th><td>RCE</td><td>CAN-2003-0345</td><td>Buffer overflow in the SMB capability</td></tr>
     <tr><th>MS05-011</th><td>RCE</td><td>CAN-2005-0045</td><td>Trans2 FIND_FIRST2 responses with large file name length fields</td></tr>
     <tr><th>MS05-027</th><td>RCE</td><td>CAN-2005-1206</td><td>Server Message Block Vulnerability</td></tr>
