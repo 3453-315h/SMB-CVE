@@ -27,7 +27,7 @@ These could be in any of the SMB drivers and their supporting services.
     <tr><th>MS06-063</th><td>DOS</td><td>CVE-2006-3942</td><td>Server Service Denial of Service Vulnerability</td></tr>
     <tr><th>MS08-063</th><td>RCE</td><td>CVE-2008-4038</td><td>SMB Buffer Underflow Vulnerability</td></tr>
     <tr><th>MS08-067</th><td>RCE</td><td>CVE-2008-4250</td><td>Server Service Vulnerability overflow during path canonicalization</td></tr>
-    <tr><th>MS08-068</th><td>RCE</td><td>CVE-2008-4037</td><td>SMB Credential Reflection Vulnerability</td></tr>
+    <tr><th>MS08-068</th><td>RCE</td><td>CVE-2008-4037</td><td>SMB Credential Reflection Vulnerability SMBRelay</td></tr>
     <tr><th>MS09-001</th><td>RCE</td><td>CVE-2008-4834</td><td>SMB Buffer Overflow Remote Code Execution Vulnerability</td></tr>
     <tr><th>MS09-001</th><td>RCE</td><td>CVE-2008-4835</td><td>SMB Validation Remote Code Execution Vulnerability</td></tr>
     <tr><th>MS09-001</th><td>DOS</td><td>CVE-2008-4835</td><td>SMB Validation Remote Code Execution Vulnerability</td></tr>
