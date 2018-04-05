@@ -44,7 +44,7 @@ These could be in any of the SMB drivers and their supporting services.
     <tr><th>MS11-020</th><td>RCE</td><td>CVE-2011-0661</td><td>SMB Transaction Parsing Vulnerability</td></tr>
     <tr><th>MS15-083</th><td>RCE</td><td>CVE-2015-2474</td><td>Server Message Block Memory Corruption Vulnerability</td></tr>
     <tr><th>MS16-114</th><td>RCE/DOS</td><td>CVE-2016-3345</td><td>Windows SMB Authenticated Remote Code Execution Vulnerability</td></tr>
-    <tr><th>MS17-010</th><td>RCE</td><td>CVE-2017-0143</td><td>ETERNALROMANCE/ETERNALSYNERGY - Type confusion with WriteAndX and Transaction</td></tr>
+    <tr><th>MS17-010</th><td>RCE</td><td>CVE-2017-0143</td><td>ETERNALROMANCE/ETERNALSYNERGY - WriteAndX and Transaction</td></tr>
     <tr><th>MS17-010</th><td>RCE</td><td>CVE-2017-0144</td><td>ETERNALBLUE - Integer overflow in SrvOs2FeaListSizeToNt</td></tr>
     <tr><th>MS17-010</th><td>RCE</td><td>CVE-2017-0145</td><td>??? - Integer overflow in SrvOs2GeaListSizeToNt?</td></tr>
     <tr><th>MS17-010</th><td>RCE</td><td>CVE-2017-0146</td><td>ETERNALCHAMPION/ETERNALSYNERGY Race condition in Transactions</td></tr>
