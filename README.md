@@ -8,9 +8,9 @@ These could be in any of the SMB drivers and their supporting services.
 <table>
   <thead>
     <tr>
-      <th>Bulletin</th>
+      <th width=100>Bulletin</th>
       <th>Type</th>
-      <th>CVE</th>
+      <th width=150>CVE</th>
       <th>Description</th>
     </tr>
   </thead>
